@@ -1,4 +1,10 @@
-﻿using System;
+﻿//Author: Kevin Gutierrez
+//Date: 9/23/20
+//Chapter 5 Excercise 9 Sum200
+//Calc sum of all ints from 0 to 200 inclusive
+
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
